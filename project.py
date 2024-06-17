@@ -1,4 +1,4 @@
-# I
+# Import packages
 import os
 import PyPDF2
 
